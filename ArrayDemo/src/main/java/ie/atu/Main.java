@@ -19,7 +19,7 @@ public class Main {
 
         System.out.print("Please enter a value for index 9: ");
         uIn = scanner.nextInt();
-        numbers[10] = uIn;
+        numbers[9] = uIn;
         System.out.print("Element at index 10 : " + uIn + "\n");
 
 
